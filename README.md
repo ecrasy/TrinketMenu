@@ -1,3 +1,8 @@
+# This project is deprecated
+I am leaving the repository open for anyone interested.
+Resike has updated Trinket menu for both Wow Vanilla/Classic and TBC-Classic: [TrinketMenu at Curseforge](https://www.curseforge.com/wow/addons/trinket-menu)
+Old readme underneath.
+
 # TrinketMenu
 The Trinket Menu addon for WoW, updated for Classic WoW 1.13
 
