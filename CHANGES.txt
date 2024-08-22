@@ -1,0 +1,10 @@
+lightweight tag 93695df279ee90a96b2b9ed4084a35ce309ae4d9 10.0.3
+Author:	Resike <resike@gmail.com>
+Date:	Sat Sep 16 16:14:28 2023 +0200
+
+commit 93695df279ee90a96b2b9ed4084a35ce309ae4d9
+Author: Resike <resike@gmail.com>
+Date:   Sat Sep 16 16:14:28 2023 +0200
+
+    Retail TOC
+
